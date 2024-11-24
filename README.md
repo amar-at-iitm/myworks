@@ -23,7 +23,7 @@ Implements Higuchi’s Algorithm and Spectral Analysis to compute fractal dimens
 ## Methods Used
   - **Spectral Analysis**
     - Power spectral density(𝑆(𝑓) analysis to determine the spectral exponent (𝛽).
-    - Relationship: 𝑆(𝑓)∝𝑓−𝛽.
+    - Relationship: 𝑆(𝑓)∝𝑓^(−𝛽).
   - **Hurst Exponent** 
     - Uses rescaled range (R/S) analysis to calculate the Hurst exponent (𝐻):
       - 𝐻=0.5: Random walk (Brownian motion)
